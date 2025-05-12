@@ -23,14 +23,12 @@ Shakewell Technical Interview
 
    ```bash
    # Backend
-   cd server
+   cd backend
    npm install
-   # Or with yarn
-   yarn install
+   npm run dev
    
    # Frontend
-   cd ../client
+   cd ../frontend
    npm install
-   # Or with yarn
-   yarn install
-   ```
+   npm run dev
+   
