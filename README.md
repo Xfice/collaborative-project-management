@@ -31,4 +31,9 @@ Shakewell Technical Interview
    cd ../frontend
    npm install
    npm run dev
-   
+
+3. **For tests**
+   #Backend
+   npm run test:backend
+   #Frontend
+   npm run test:frontend
